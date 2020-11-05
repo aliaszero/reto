@@ -1,33 +1,23 @@
-#uno {
-   border:0px solid #000;
-   
-}
-body{
-  
-}
-
 .fondo {
     background-image: url(../img/bg-hero-desktop.svg);
     background-size: contain;
     background-color: rgba(237,251,254,1);
 }
+body{
+    font-family: 'Open Sans', sans-serif;
+    min-width: 375px;
+}
+
 #boton {
     background-color: hsl(322, 100%, 66%);
-    font-size: 0.6em;
+    font-size: 12px;
 }
 #boton2 {
     font-size: 0.7em;
 }
-#boton2 p{
-}
+
 header {
     font-family:  'Poppins', sans-serif;
     font-size: 18px;
-}
-
-.img-fluid.{
-     max-width: 70%;
-}
-.textw{
-    margin-top:20%;
+    
 }
