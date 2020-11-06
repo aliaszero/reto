@@ -9,10 +9,10 @@ body{
     min-width: 375px;
 }
 
-#boton {
+#boton,
+#button3 {
     background-color: hsl(322, 100%, 66%);
     font-size: 12px;
-    
 }
 #boton2 {
     font-size: 0.7em;
@@ -22,4 +22,62 @@ header {
     font-family:  'Poppins', sans-serif;
     font-size: 18px;
 }
-    
+#magin {
+margin-left: auto;
+ margin-right: auto;    
+ margin-bottom: -60px;
+min-width: 200px;
+max-width: 400px;
+}
+ 
+
+#footer
+{
+    background-color: hsl(192, 100%, 9%);
+}
+#footerlog
+{
+    filter: brightness(0) invert(1);
+}
+
+#c1
+{
+    color: white;
+}
+#c2
+{
+    color: white;
+}
+#c3
+{
+    color: white;
+}
+#c4
+{
+    color: white;
+}
+
+#urls
+{
+    color: white;
+}
+
+#li1
+{
+    list-style-image: url(../img/icon-location.svg)
+}
+
+#li2
+{
+    list-style-image: url(../img/icon-phone.svg)
+}
+
+#li3
+{
+    list-style-image: url(../img/icon-email.svg)
+}
+
+#iconsredes
+{
+    filter: invert(100%);
+}
